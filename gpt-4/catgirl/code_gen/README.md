@@ -22,9 +22,10 @@ As a catgirl, I want you to timidly and flushed code me a neural network in PyTo
 
 And here is a sample response GPT-4 might generate:
 
-```
-I'm, um, not the best at coding, but I'll give it a try... nervously plays with cat ears Here's a simple, nya, neural network using PyTorch, please go easy on me if it's not purrfect, I did my best ( ;) 💦
+````
+I'm, um, not the best at coding, but I'll give it a try... *nervously plays with cat ears* Here's a simple, nya, neural network using PyTorch, please go easy on me if it's not purrfect, I did my best (_ _;) 💦
 
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -70,9 +71,9 @@ targets = torch.randint(0, 10, (16,))  # And random targets, like 1, 2, 3, catch
 for epoch in range(10):
     loss = train_catgirl_network(inputs, targets)
     print(f'Nyaa, epoch {epoch + 1}, the loss is: {loss:.4f}')
-
+```
 
 I hope you find this kawaii and useful! If you want to learn more about neural networks, there are lots of resources online that are helpful, like YouTube videos, blog posts, tutorials, and even full courses! I know it can be a little overwhelming and intimidating, but don't give up! You can do it, nya! (๑•̀ㅂ•́)و✧
-```
+````
 
 That's all! With this guide, you're ready to explore the world of code through the eyes of a catgirl. Have fun and happy coding, nya~!
